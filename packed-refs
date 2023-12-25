@@ -1,0 +1,14 @@
+# pack-refs with: peeled fully-peeled sorted 
+ca09f27a6c4240b5a7e08056c90c8245c5e5b135 refs/remotes/origin/docker-legacy
+615d9f89c396d8f42bd0df572689316b5e20909b refs/remotes/origin/master
+1ebd971aeec40d5c47a99388cfbf31f20dc4c0c1 refs/remotes/origin/v236
+931f3d9feb4663b88e76e090081f5550bca1cd6a refs/tags/2.1
+22c576f1b0795a0875ffa47f94011ed46efc5a3a refs/tags/2.2
+22847dcc2380e28c490564ba02bb0e1e3b6f0871 refs/tags/2.3.0
+7ec5cbcbfba741af9e2f54b9d29cab9f5a5fdfb9 refs/tags/2.3.1
+a97e942bf4edcfde448eb53ee8b97dce958a5bfd refs/tags/2.3.2
+288a86f572c864b3147bef35b58398eb5d9ad30c refs/tags/2.3.3
+8a92644c1dd7e8119b951b1a53a3f8c55bec47c6 refs/tags/2.3.4
+7a525d002f121ea2c2b481f3404c91ac530bcb7c refs/tags/2.3.5
+7ea91da446243393e9e8099a569b7e4ec3861266 refs/tags/v1.1
+5ac99c53609806d7625811d131926d9144ec5a4e refs/tags/v2.0
